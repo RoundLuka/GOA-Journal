@@ -1,0 +1,9 @@
+.group {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    box-shadow: 0 0 15px green;
+    
+    padding: 30px;
+}
